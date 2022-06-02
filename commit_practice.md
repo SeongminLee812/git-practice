@@ -33,4 +33,4 @@
 
 5. Commit ID는 중복 가능하다. (맞으면 O, 틀리면 X)
    - 답 : X
-   - 이유 : resistory당 한 ID
+   - 이유 : repository당 한 ID
